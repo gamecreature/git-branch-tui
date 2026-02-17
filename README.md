@@ -2,6 +2,9 @@
 
 Interactive `git` branch browser + cleanup TUI for local branches, powered by `fzf`.
 
+DISCLAIMER/NOTE: this is barely tested, but it seems to work.
+Use at your own risk! :-)
+
 ## What It Does
 
 - Lists all local branches.
